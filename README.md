@@ -9,8 +9,6 @@
 
 [![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BikashhalderNew/BanAllBot)
 
-## 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
 
 ## Telegram 🏪
 
