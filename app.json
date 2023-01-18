@@ -8,12 +8,12 @@
         "telegram"
     ],
     "buildpacks": [{
-    "url": "heroku/python"
+    "url": "heroku-22/python"
   }],
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "Eco"
+            "size": "eco"
         }
      },
        "addons": [
